@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contraband", "Contraband\Contraband.csproj", "{741348A2-534F-40F6-AD7F-F0817C09F662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741348A2-534F-40F6-AD7F-F0817C09F662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741348A2-534F-40F6-AD7F-F0817C09F662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741348A2-534F-40F6-AD7F-F0817C09F662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741348A2-534F-40F6-AD7F-F0817C09F662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CB65694-0416-4486-BADE-8783029D3130}
+	EndGlobalSection
+EndGlobal
